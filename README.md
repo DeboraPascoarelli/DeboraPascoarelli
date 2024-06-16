@@ -1,4 +1,6 @@
-## 👋 Hi, I’m @DeboraPascoarelli
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Debora!;" />
+</h1>
 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Phython and SQL
